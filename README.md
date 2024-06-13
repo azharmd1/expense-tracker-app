@@ -1,6 +1,3 @@
-Certainly! Here's the revised README file including the `ExpenseTrackerAppApplication.java` in the package structure section:
-
----
 
 ## Expense Tracker App
 
